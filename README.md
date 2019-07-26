@@ -1,1 +1,1 @@
-# DataCenterSim
+# Heterogeneous Cluster Simulator
